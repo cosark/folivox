@@ -122,6 +122,10 @@ It removes only what Folivox created. Your books, audiobooks, ffmpeg and uv are 
 
 Details, options, manual install and troubleshooting: [docs/install.md](docs/install.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Folivox/)
+
 ## Choose how your book is read
 
 | | Free, on your computer | With an online engine (your API key) |
